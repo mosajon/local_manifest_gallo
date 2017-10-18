@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--project path="kernel/dell/gallo" name="mosajon/android_kernel_dell_gallo" remote="github" revision="cm-9.1.0" /-->
+  <project path="device/dell/gallo" name="mosajon/android_device_dell_gallo" remote="github" revision="cm-9.1.0" />
+  <project path="vendor/dell/gallo" name="mosajon/android_vendor_dell_gallo" remote="github" revision="cm-9.1.0" />
+
+</manifest>
